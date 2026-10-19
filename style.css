@@ -1,0 +1,25 @@
+body {
+font-family: Arial;
+  background-color: #0F172A;
+  color: #E2E8F0;
+margin: 0;
+}
+
+
+
+
+header {
+  background-color: #1E293B;
+padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+align-items: center;
+
+}
+.logo {
+width: 180px;
+  height: 180px;
+  border-radius: 50%;
+border: 3px solid #38BDF8;
+  object-fit: cover;
+}
