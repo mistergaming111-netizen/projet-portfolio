@@ -52,7 +52,7 @@ background-color: #1E293B;
 margin-bottom: 20px;
 }
 
-#competences, #projets {
+#competences, #projets, #contact {
   padding: 20px 50px;
 }
 
@@ -60,4 +60,10 @@ footer {
   background-color: #1E293B;
 text-align: center;
   padding: 15px;
+}
+
+
+
+#contact li {
+  margin-bottom: 10px;
 }
